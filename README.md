@@ -16,7 +16,7 @@ Deployment information
 
 ## How To Contribute
 
-Contribution instructions
+Contribution instructions. Please fork this repository.
 
 ### Copyright
 
