@@ -17,3 +17,7 @@ Deployment information
 ## How To Contribute
 
 Contribution instructions
+
+### Copyright
+
+2014 Git.Training
